@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Daniel Ogata
-Olá, me chamo Daniel e estou inicializando meu desenvolvimento profissional
-Estou estudando atualmente:
+# Daniel Ogata
+#### Olá, me chamo Daniel e estou inicializando meu desenvolvimento profissional.
+#### Estou estudando atualmente:
 
 #### Python
 #### Java
