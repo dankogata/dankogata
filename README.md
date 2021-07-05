@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 #### Olá, me chamo Daniel e estou inicializando meu desenvolvimento profissional.
 #### Estou estudando atualmente:
 
-#### Python
-#### Java
-#### Power BI
-#### Git
+-Python    
+-Java          
+-Power BI         
+-Git    
+https://linkedin.com/daniel-kenji-ogata/
