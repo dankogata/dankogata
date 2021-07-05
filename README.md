@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **dankogata/dankogata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Daniel Ogata
+Olá, me chamo Daniel e estou inicializando meu desenvolvimento profissional
+Estou estudando atualmente:
+
+#### Python
+#### Java
+#### Power BI
+#### Git
