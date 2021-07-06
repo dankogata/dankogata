@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 -Power BI         
 -Git        
    
-<a target="_blank" href="https://linkedin.com/daniel-kenji-ogata/">
+<a target="_blank" href="https://www.linkedin.com/in/daniel-kenji-ogata/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> 
