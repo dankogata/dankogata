@@ -20,5 +20,8 @@ Here are some ideas to get you started:
 -Python    
 -Java          
 -Power BI         
--Git    
-https://linkedin.com/daniel-kenji-ogata/
+-Git        
+   
+<a target="_blank" href="https://linkedin.com/daniel-kenji-ogata/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a> 
