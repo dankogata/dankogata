@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <head> 
    <h1>Daniel Ogata</h1>
-   <p>Olá, me chamo Daniel, sou estudante de ADS na FATEC-SP.</p> 
+   <p>Olá, me chamo Daniel, sou estudante de Análise e Desenvolvimento de Sistemas na FATEC-SP.</p> 
    <p>Estou inicializando meu portfólio profissional.</p>
    <p>Atualmente estou estudando:</p>
 <ul>
