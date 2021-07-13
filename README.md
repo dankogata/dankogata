@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Daniel Ogata
-#### Olá, me chamo Daniel e estou inicializando meu desenvolvimento profissional.
-#### Estou estudando atualmente:
+#### Olá, me chamo Daniel, sou estudante de ADS na FATEC-SP e estou inicializando meu portifólio profissional.
+#### Atualmente estou estudando:
 
 -Python    
 -Java          
