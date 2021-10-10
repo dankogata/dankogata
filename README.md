@@ -28,6 +28,15 @@ Here are some ideas to get you started:
    <li>
       SQL
    </li>
+   <li>
+      HTML
+   </li>
+   <li>
+      CSS
+   </li>
+   <li>
+      Javascript
+   </li>
 </ul>
 <h2>
    <a id="user-content-conhecimentos-em-lingaguens" class="archor" aria-hidden="true" href="#Conhecimentos em linguagens"></a>
@@ -49,6 +58,14 @@ Here are some ideas to get you started:
    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
      <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width:100%;">
    </a>
+   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;">
+   </a>
+   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;">
+   </a>
+    
+  
    
      
 
