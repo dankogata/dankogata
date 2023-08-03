@@ -23,7 +23,7 @@ Here are some ideas to get you started:
       Power BI
    </li>
    <li>
-      Python
+      Python | R
    </li> 
    <li>
       SQL
