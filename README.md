@@ -1,26 +1,17 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&high=80&section=header"/>
 
-<!--
-**dankogata/dankogata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me ###
+**Name:** Daniel Ogata<br>
+**Age:** 29 years old<br>
+**Gratuated:** Systems analysis and development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&high=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&width=1000&lines=My+Name+is+Daniel+Ogata;I'm+29+years+old;I'm+Learning+data+science)](https://git.io/typing-svg)
-
-### Badges ###
+### Skills ###
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
+---
 
-### Linkedin ### 
+### Social Media ### 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kenji-ogata/)
