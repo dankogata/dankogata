@@ -5,7 +5,7 @@
 ### About me ###
 
 **Name:** Daniel Ogata<br>
-**Age:** 29 years old<br>
+**Age:** 30 years old<br>
 **Graduated:** Systems analysis and development
 
 ---
